@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "72293335078",
+    "firebase_url": "https://rizka1202154305modul6.firebaseio.com",
+    "project_id": "rizka1202154305modul6",
+    "storage_bucket": "rizka1202154305modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72293335078:android:8f5145a16d043f9a",
+        "android_client_info": {
+          "package_name": "com.example.android.rizka_1202154305_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72293335078-kb0intg618hk1uueifdspqc3ih67h65u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.rizka_1202154305_modul6",
+            "certificate_hash": "1d52948693c86f25d8c869fb02e658fad790af98"
+          }
+        },
+        {
+          "client_id": "72293335078-4vmm8slk7j8tusd4i05tp7qc2q6a6235.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQFAXmaEavhrXd0NQDgt6Q-ccixAflIQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72293335078-4vmm8slk7j8tusd4i05tp7qc2q6a6235.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
